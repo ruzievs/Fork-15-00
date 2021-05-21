@@ -33,6 +33,55 @@ ul {
 /* header end */
 
 /* Isroil start */
+.isroil__book{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.isroil__title{
+  font-size: 51px;
+  color: #692340;
+  padding: 120px 0 37px 0;
+  font-weight: 700;
+}
+
+.isroil__txt{
+  width: 600px;
+  text-align: center;
+  margin-bottom: 140px;
+  font-weight: 500;
+  color: #692340;
+}
+.isroil__card{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.isroil__banner{
+  margin-bottom: 30px;
+}
+
+.isroil__card-title{
+  width: 110px;
+  text-align: center;
+  color: #692340;
+  font-weight: 400;
+  margin: 0 auto;
+  margin-bottom: 20px;
+}
+
+.isroil__card-txt{
+  width: 192px;
+  text-align: center;
+  color: #692340;
+  font-weight: 400
+}
+.isroil__cards{
+  display: flex;
+  justify-content: space-between;
+}
+
 /* Isroil end */
 
 /* Aziz start */
